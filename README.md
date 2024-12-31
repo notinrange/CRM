@@ -72,7 +72,7 @@ php artisan db:seed
 
 To Run Project
 ```
-php artisan migrate
+php artisan serve
 ```
 
 ### Step 5
